@@ -1,0 +1,9 @@
+node_modules
+.env
+.next
+*.log
+dist
+supabase/.temp
+# mobile
+apps/mobile/node_modules
+apps/web/node_modules
